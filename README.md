@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alqama Shahzad</h1>
 <h3 align="center">A Passionate FrontEnd Developer From Pakistan</h3>
 
+<div align="center">
+  <img height="180" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alqama-shahzad&label=Profile%20views&color=0e75b6&style=flat" alt="alqama-shahzad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alqama-shahzad" alt="alqama-shahzad" /></a> </p>
